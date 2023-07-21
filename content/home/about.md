@@ -6,7 +6,7 @@ weight: 0
 
 My name is Šime Pavlić  
 
-I am a dedicated Software Engineer specializing in the realm of backend development for distributed systems. With a deep-seated proficiency in Golang and Docker, my work primarily revolves around creating robust and scalable solutions. In addition, I harbor a strong passion for Computer Vision technologies and have accumulated significant experience in Python, along with familiarity with its Machine Learning frameworks such as Tensorflow, Keras, and Pytorch.
+I am a dedicated Software Engineer from Croatia, specializing in the realm of backend development for distributed systems. With a deep-seated proficiency in Golang and Docker, my work primarily revolves around creating robust and scalable solutions. In addition, I harbor a strong passion for Computer Vision technologies and have accumulated significant experience in Python, along with familiarity with its Machine Learning frameworks such as Tensorflow, Keras, and Pytorch.
 
 My intellectual curiosity perpetually drives me to acquire new skills and knowledge. This constant pursuit of learning, coupled with a deep appreciation for the outdoors, fosters a unique balance in my life. As an ardent programmer and hiking enthusiast, I am always on the lookout for challenges that push me both professionally and personally.
 
