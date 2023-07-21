@@ -2,3 +2,37 @@ baseURL = ''
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'introduction'
+
+[params]
+    themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
+    email                        = "pavlicsime1994@gmail.com"   # E-mail address for contact section
+
+    [params.home]
+        introHeight              = "medium"            # Input either "medium" or "large" or "fullheight"
+        timeZone                 = "Europe/Zagreb"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        timeFormat               = "en-US"                 # Language specific format to use
+
+    [[params.social]]
+        url   = "https://www.linkedin.com/in/sime-pavlic/"
+        icon  = "linkedin-in" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
+        url   = "https://github.com/simepavlic"
+        icon  = "github" # icon name without the 'fa-'
+        icon_pack = "fab"
+
+[markup]
+    [markup.goldmark.renderer]
+        unsafe = true
+
+[languages]
+    [languages.en]
+        languageName     = "English"
+        languageCode     = "en-us"
+        contentDir       = "content"
+        weight           = 0
+        title            = "My portfolio"
+        [languages.en.params]
+            description  = "Website Description"   # Max 160 characters show in search results
+            footerText   = " "                      # Text to override default footer text (markdown allowed)
+
