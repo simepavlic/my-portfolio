@@ -1,4 +1,4 @@
-# [Your Name]'s Portfolio Website
+# My Portfolio Website
 
 ## Description
 
@@ -36,8 +36,4 @@ You can now view the website by navigating to `http://localhost:1313` in your we
 ## Feedback
 
 If you have any feedback, please feel free to file an issue on this GitHub repository.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
