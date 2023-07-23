@@ -14,4 +14,4 @@ One of my most cherished achievements lies in successfully completing the Camino
 
 In sum, I believe in pushing the boundaries of technology while maintaining a solid connection with the natural world, and I eagerly anticipate opportunities where I can apply my skills and passions to make a meaningful impact.
 
-Check out my professional [résumé](/CV.pdf)
+Check out my professional [résumé](CV.pdf)
