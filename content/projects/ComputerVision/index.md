@@ -14,7 +14,7 @@ draft: false
 
 Here are some of the key projects I've completed in the realm of Machine Learning and Computer Vision, showcasing my skills and experience in these domains:
 
-- **[Retinal Fluid Segmentation](https://github.com/simepavlic/Retinal-fluid-segmentation)**: This pioneering project marked the first-ever application of Capsule Neural Networks for the specific task of retinal fluid segmentation. This work exemplifies my ability to apply cutting-edge neural network models to complex, real-world challenges in the healthcare domain.
+- **[Retinal Fluid Segmentation](https://github.com/simepavlic/Retinal-fluid-segmentation)**: This project marked the first-ever application of Capsule Neural Networks for the specific task of retinal fluid segmentation. This work exemplifies my ability to apply cutting-edge neural network models to complex, real-world challenges in the healthcare domain.
 
 - **[OCR Simple Math Solver](https://github.com/simepavlic/math-solver)**: A Computer Vision project designed to recognize and solve simple mathematical expressions encompassing operations such as multiplication, division, addition, and subtraction. This project reflects my capacity to integrate Optical Character Recognition (OCR) with mathematical processing, thereby enabling the automation of equation solving.
 
