@@ -12,20 +12,20 @@ draft: false
 
 ## Extracurricular Achievements & Future Goals
 
-In addition to my professional pursuits, I have a passion for physical and mental challenges that push me beyond my limits. These adventures not only provide a profound sense of achievement but also enrich my personal growth and resilience.
+In addition to my professional pursuits, I have a passion for physical and mental challenges that push me beyond my limits.
 
 ### Notable Accomplishments:
 
-- **Camino Frances + Camino Finisterre-Muxía**: Successfully completed these long-distance hiking routes, showcasing my endurance and determination.
+- **Camino Frances + Camino Finisterre-Muxía**: Successfully trekked 920 kilometers and earned several blisters along the way.
 
-- **Medvednica 1 trail in a single day**: Conquered this challenging trail, reflecting my commitment to personal fitness and love for the outdoors.
+- **Medvednica 1 trail**: Hiked this challenging, 54 kilometers long route in a single day.
 
 ### Future Goals:
 
-- **GR20**: As one of Europe's most demanding long-distance trails, I aim to tackle this challenge to enhance my endurance and resilience.
+- **GR20**: One of Europe's most demanding long-distance trails.
 
-- **Camino del Norte**: My next long-distance hiking goal, furthering my passion for conquering new landscapes.
+- **Camino del Norte**: My next hiking goal.
 
-- **Marathon**: Training for and completing a marathon to constantly improve my endurance and mental fortitude.
+- **Marathon**: I aspire to train for and complete a marathon to test my endurance and mental fortitude.
 
 These extracurricular activities, although distinct from my professional career, underscore my resilience, determination, and continuous desire to learn and improve - traits that also serve me well in my professional endeavors.
